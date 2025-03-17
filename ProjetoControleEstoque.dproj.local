@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/14 14:29:01.000.496,=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/03/14 14:37:09.000.803,C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\EMANUEL\Desktop\+\Projeto Controle de Estoque\view.estoque.pas</Transaction>
+    <Transaction>2025/03/14 14:37:09.000.803,C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\EMANUEL\Desktop\+\Projeto Controle de Estoque\view.estoque.dfm</Transaction>
+    <Transaction>2025/03/14 14:37:25.000.582,C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\ProjetoControleEstoque.dproj</Transaction>
+    <Transaction>2025/03/14 14:37:35.000.897,C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\ProjetoControleEstoque.dproj=C:\Users\EMANUEL\Desktop\+\Projeto Controle de Estoque\ProjetoControleEstoque.dproj</Transaction>
+    <Transaction>2025/03/17 14:41:37.542,C:\Users\EMANUEL\Desktop\+\Projeto Controle de Estoque\views\view.estoque.dfm=C:\Users\EMANUEL\Desktop\+\Projeto Controle de Estoque\view.estoque.dfm</Transaction>
+    <Transaction>2025/03/17 14:41:37.542,C:\Users\EMANUEL\Desktop\+\Projeto Controle de Estoque\views\view.estoque.pas=C:\Users\EMANUEL\Desktop\+\Projeto Controle de Estoque\view.estoque.pas</Transaction>
+  </Transactions>
+</BorlandProject>
