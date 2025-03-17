@@ -71,7 +71,7 @@ implementation
 { TViewControleEstoque }
 
 procedure TViewControleEstoque.btnAlterarClick(Sender: TObject);
-begin // anterar
+begin // alterar
   FDQuery.Close;
   FDQuery.Open();
   DataSource.DataSet.Edit;
@@ -116,9 +116,9 @@ begin // confere os estoques e trocam a cor da celula de acordo com o valor
 
     else if FDQueryEST_ESTOQUE.Value < FDQueryEST_ESTOQUEMIN.Value then
     begin
-
       DBGrid.Canvas.Brush.Color := $008080FF;
     end
+    
     else if FDQueryEST_ESTOQUE.Value >= FDQueryEST_ESTOQUEMIN.Value then
     begin
       DBGrid.Canvas.Brush.Color := clMoneyGreen;
